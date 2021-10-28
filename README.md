@@ -22,33 +22,22 @@ up completion, we will meet with the client and present the outcome
 
 Jeremy Brokken
 ---------------------
-Software Architect
-User Experience Designer
-Developer 
-Designer 
+ 
 Tester
 
 Felipe  Herbster
 ----------------------------------------
-Software Architect
-Quality Assurance Lead
+
 Developer
-Designer 
-Tester
+
 
 Fei Li
 -------
 Scrum Master
-Software Architect
-Developer
-Designer 
-Tester
+
 
 Finn Williams
 -----------------
-Quality Assurance Lead
-User Interface Designer
-developer
+
 Designer
-Tester
 
