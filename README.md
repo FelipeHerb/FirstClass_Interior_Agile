@@ -22,23 +22,33 @@ up completion, we will meet with the client and present the outcome
 
 Jeremy Brokken
 ---------------------
-Project lead
-Project Manager
-Senior Business Analyst
+Software Architect
+User Experience Designer
+Developer 
+Designer 
+Tester
 
-Felipe  Herbster Dias Siqueira
+Felipe  Herbster
 ----------------------------------------
-Senior Software Architect
-Senior Developer
+Software Architect
+Quality Assurance Lead
+Developer
+Designer 
+Tester
 
 Fei Li
 -------
-Senior Tester
-Senior Scrum Manager
+Scrum Master
+Software Architect
+Developer
+Designer 
+Tester
 
 Finn Williams
 -----------------
 Quality Assurance Lead
-Senior User Interface Designer
-Senior User Experience Designer
+User Interface Designer
+developer
+Designer
+Tester
 
